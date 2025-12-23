@@ -1,0 +1,4 @@
+package vitrine
+
+class Xpto {
+}
