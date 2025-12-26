@@ -1,4 +1,4 @@
-package _05_operadores_aritmeticos
+package _05_operadores
 
 fun main() {
     var n1 = "Carro"
